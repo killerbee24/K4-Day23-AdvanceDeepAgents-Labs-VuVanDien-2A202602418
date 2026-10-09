@@ -52,14 +52,19 @@ Lab/
 ├── sandbox.py                CÓ SẴN - không sửa: sandbox Daytona (hoặc Docker), upload, download
 ├── self_check.py             CÓ SẴN - không sửa: tự kiểm tra trước khi nộp (python self_check.py)
 ├── finalize_citations.py     CÓ SẴN - không sửa: script chạy trong sandbox, tự sinh `## References` và đánh số lại trích dẫn
-├── tools.py                  SINH VIÊN CÀI ĐẶT: retry + 5 công cụ nguồn dữ liệu
-├── agents.py                 SINH VIÊN CÀI ĐẶT: prompt, subagent, lead agent
-├── research.py               SINH VIÊN CÀI ĐẶT: script chính
-├── check_citations.py        SINH VIÊN CÀI ĐẶT: kiểm tra trích dẫn, chạy TRONG sandbox
+├── tools.py                  ĐÃ TRIỂN KHAI: retry + 5 công cụ nguồn dữ liệu
+├── agents.py                 ĐÃ TRIỂN KHAI: prompt, subagent, lead agent
+├── research.py               ĐÃ TRIỂN KHAI: script chính
+├── check_citations.py        ĐÃ TRIỂN KHAI: kiểm tra trích dẫn, chạy TRONG sandbox
+├── tests/test_lab.py         kiểm thử logic retry, tool, validator, agent và pipeline
 └── reports/                  báo cáo sinh ra (bạn commit vào repo nộp)
 ```
 
-Mỗi tệp "SINH VIÊN CÀI ĐẶT" là **pseudo-code chạy được** (import được): các hàm có docstring mô tả việc cần làm, các `TODO n` đánh số theo `GUIDE.md`, thân hàm đang `raise NotImplementedError`.
+Các phần sinh viên trong bộ khung đã được cài đặt. Có thể chạy kiểm thử không tốn token bằng:
+
+```bash
+python -m unittest discover -s tests -v
+```
 
 ## 4. Cài đặt
 

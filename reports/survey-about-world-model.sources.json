@@ -1,0 +1,274 @@
+[
+  {
+    "id": "",
+    "url": "https://deepmind.google/blog/genie-2-a-large-scale-foundation-world-model/",
+    "title": "Genie 2: A large-scale foundation world model",
+    "date": "2024-12-04",
+    "source": "web",
+    "n": 1
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/2412.03572",
+    "title": "Navigation World Models",
+    "date": "2024-12-12",
+    "source": "arxiv",
+    "n": 2
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/2410.24164v1",
+    "title": "π₀: A Vision-Language-Action Flow Model for General Robot Control",
+    "date": "2024-10-24",
+    "source": "arxiv",
+    "n": 3
+  },
+  {
+    "id": "",
+    "url": "https://papers.nips.cc/paper_files/paper/2024/file/6164b6e5352c139e9ddc1a98c09e4e4a-Paper-Conference.pdf",
+    "title": "PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation",
+    "date": "2024-11-19",
+    "source": "web",
+    "n": 4
+  },
+  {
+    "id": "",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/3076133f08b40607d00a8f48f6acd71c-Paper-Conference.pdf",
+    "title": "GenRL: Multimodal-foundation world models for generalization in embodied agents",
+    "date": "2024-11-19",
+    "source": "web",
+    "n": 5
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/2410.11402",
+    "title": "M2Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation",
+    "date": "2024-10-15",
+    "source": "arxiv",
+    "n": 6
+  },
+  {
+    "id": "",
+    "url": "https://papers.nips.cc/paper_files/paper/2024/file/820c61a0cd419163ccbd2c33b268816e-Paper-Conference.pdf",
+    "title": "WorldCoder: Model-Based LLM Agent",
+    "date": "2024-12-10",
+    "source": "web",
+    "n": 7
+  },
+  {
+    "id": "",
+    "url": "https://papers.nips.cc/paper_files/paper/2024/file/90afd20dc776bc8849c31d61a0763a0b-Paper-Conference.pdf",
+    "title": "Humanoid Locomotion as Next Token Prediction",
+    "date": "2024-12-10",
+    "source": "web",
+    "n": 8
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/2401.12963",
+    "title": "AutoRT: Embodied Foundation Models for Large Scale Orchestration",
+    "date": "2024-01-23",
+    "source": "arxiv",
+    "n": 9
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/2412.10402",
+    "title": "TANGO: Training-free Embodied AI Agents for Open-world Tasks",
+    "date": "2024-12-05",
+    "source": "arxiv",
+    "n": 10
+  },
+  {
+    "id": "",
+    "url": "https://openai.com/index/video-generation-models-as-world-simulators/",
+    "title": "Sora: Video generation models as world simulators",
+    "date": "2024-02-15",
+    "source": "web",
+    "n": 11
+  },
+  {
+    "id": "",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/7dbb5bfab324e3b86af9bd0df15498dd-Paper-Conference.pdf",
+    "title": "iVideoGPT: Interactive VideoGPTs are Scalable World Models",
+    "date": "2024-12-10",
+    "source": "web",
+    "n": 12
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/2410.12822",
+    "title": "AVID: Adapting Video Diffusion Models to World Models",
+    "date": "2024-10-28",
+    "source": "arxiv",
+    "n": 13
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/pdf/2406.09455v1",
+    "title": "Pandora: General World Model with Natural Language Actions and Video States",
+    "date": "2024-06-13",
+    "source": "web",
+    "n": 14
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/2404.18202v1",
+    "title": "WorldGPT: Empowering LLM as Multimodal World Model",
+    "date": "2024-04-18",
+    "source": "web",
+    "n": 15
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/2307.07176",
+    "title": "Safe DreamerV3: Safe Reinforcement Learning with World Models",
+    "date": "2023-07-14",
+    "source": "web",
+    "n": 16
+  },
+  {
+    "id": "",
+    "url": "https://huggingface.co/papers/2504.07095",
+    "title": "Neural Motion Simulator: Pushing the Limit of World Models in RL",
+    "date": "2025-04-09",
+    "source": "hf-search",
+    "n": 17
+  },
+  {
+    "id": "",
+    "url": "https://huggingface.co/papers/2512.04341",
+    "title": "Long-Horizon Model-Based Offline RL Without Conservatism",
+    "date": "2025-12-04",
+    "source": "hf-search",
+    "n": 18
+  },
+  {
+    "id": "",
+    "url": "https://huggingface.co/papers/2608.04964",
+    "title": "WorldCycle: Self-Verifiable RL for Long-Horizon Video World Models",
+    "date": "2026-08-05",
+    "source": "hf-search",
+    "n": 19
+  },
+  {
+    "id": "",
+    "url": "https://huggingface.co/papers/2509.19080",
+    "title": "World4RL: Diffusion World Models for Policy Refinement",
+    "date": "2025-09-23",
+    "source": "hf-search",
+    "n": 20
+  },
+  {
+    "id": "",
+    "url": "https://huggingface.co/papers/2509.07945",
+    "title": "ScaleZero: Multi-Task Planning with Efficient World Models",
+    "date": "2025-09-09",
+    "source": "hf-search",
+    "n": 21
+  },
+  {
+    "id": "",
+    "url": "https://huggingface.co/papers/2602.23058",
+    "title": "GeoWorld: Geometric World Models",
+    "date": "2026-02-26",
+    "source": "hf-search",
+    "n": 22
+  },
+  {
+    "id": "",
+    "url": "https://github.com/OpenDriveLab/AgiBot-World",
+    "title": "AgiBot World: Large-Scale Robot Learning Platform",
+    "date": "2024-12-09",
+    "source": "web",
+    "n": 23
+  },
+  {
+    "id": "",
+    "url": "https://huggingface.co/datasets/agibot-world/AgiBotWorld-Alpha",
+    "title": "AgiBot World Alpha Dataset",
+    "date": "2024-12-30",
+    "source": "web",
+    "n": 24
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/html/2403.12945",
+    "title": "DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset",
+    "date": "2024-03-20",
+    "source": "web",
+    "n": 25
+  },
+  {
+    "id": "",
+    "url": "https://github.com/yangzhou24/OmniWorld",
+    "title": "OmniWorld: Multi-Domain Multi-Modal 4D World Modeling Dataset",
+    "date": "2024-12-10",
+    "source": "web",
+    "n": 26
+  },
+  {
+    "id": "",
+    "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-WorldModel-Synthetic-Embodied-Robot-Scenes",
+    "title": "PhysicalAI WorldModel Synthetic Embodied Robot Scenes",
+    "date": "2026-05-01",
+    "source": "web",
+    "n": 27
+  },
+  {
+    "id": "",
+    "url": "https://github.com/google-deepmind/open_x_embodiment",
+    "title": "Open X-Embodiment: Robotic Learning Datasets",
+    "date": "2024-10-01",
+    "source": "web",
+    "n": 28
+  },
+  {
+    "id": "",
+    "url": "https://github.com/1x-technologies/1xgpt",
+    "title": "1X World Model Challenge",
+    "date": "2024-06-13",
+    "source": "web",
+    "n": 29
+  },
+  {
+    "id": "",
+    "url": "https://github.com/OpenMOSS/Awesome-WAM",
+    "title": "Awesome-WAM: World Action Models Survey",
+    "date": "2024-12-10",
+    "source": "web",
+    "n": 30
+  },
+  {
+    "id": "",
+    "url": "https://github.com/irom-princeton/awesome-robotics-video-world-model-papers",
+    "title": "Awesome Robotics Video World Model Papers",
+    "date": "2024-12-10",
+    "source": "web",
+    "n": 31
+  },
+  {
+    "id": "",
+    "url": "https://papers.nips.cc/paper_files/paper/2024/file/d032263772946dd5026e7f3cd22bce5b-Paper-Conference.pdf",
+    "title": "World Knowledge Model for LLM-Based Agent Planning",
+    "date": "2024-12-10",
+    "source": "web",
+    "n": 32
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/2408.10123",
+    "title": "Learning Precise Affordances from Egocentric Videos",
+    "date": "2024-08-19",
+    "source": "arxiv",
+    "n": 33
+  },
+  {
+    "id": "",
+    "url": "https://arxiv.org/abs/2407.06886",
+    "title": "Aligning Cyber Space with Physical World: Comprehensive Survey on Embodied AI",
+    "date": "2024-07-09",
+    "source": "arxiv",
+    "n": 34
+  }
+]

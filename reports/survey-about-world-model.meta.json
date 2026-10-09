@@ -1,0 +1,25 @@
+{
+  "topic": "survey about world model",
+  "model": "claude-haiku-4-5-20251001",
+  "elapsed_s": 763.4,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "edit_file": 6,
+    "execute": 23,
+    "grep": 2,
+    "read_file": 13,
+    "task": 5,
+    "write_file": 3,
+    "write_todos": 7
+  },
+  "tokens": {
+    "input": 2188883,
+    "output": 21774
+  },
+  "n_sources": 34,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

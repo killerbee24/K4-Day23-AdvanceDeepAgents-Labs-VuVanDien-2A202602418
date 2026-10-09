@@ -1,0 +1,28 @@
+{
+  "topic": "survey about LLM agents and tool use",
+  "model": "claude-haiku-4-5-20251001",
+  "elapsed_s": 116.2,
+  "subagent_calls": 4,
+  "tool_calls": {
+    "execute": 1,
+    "ls": 1,
+    "read_file": 6,
+    "task": 4,
+    "write_file": 2,
+    "write_todos": 2
+  },
+  "tokens": {
+    "input": 186911,
+    "output": 6517
+  },
+  "n_sources": 10,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ],
+  "tokens_all_agents": {
+    "input": 343051,
+    "output": 11155
+  }
+}

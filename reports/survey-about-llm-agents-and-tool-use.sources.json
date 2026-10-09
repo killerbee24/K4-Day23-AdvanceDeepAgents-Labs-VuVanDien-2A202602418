@@ -1,0 +1,82 @@
+[
+  {
+    "n": 1,
+    "id": "gta_2024",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/8a75ee6d4b2eb0b777f549a32a5a5c28-Paper-Datasets_and_Benchmarks_Track.pdf",
+    "title": "GTA: A Benchmark for General Tool Agents",
+    "date": "2024",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "emnlp_2024_eval",
+    "url": "https://aclanthology.org/2024.findings-emnlp.267.pdf",
+    "title": "An Evaluation Mechanism of LLM-based Agents on Manipulating APIs",
+    "date": "2024",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "acebench_2025",
+    "url": "https://huggingface.co/papers/2501.12851",
+    "title": "ACEBench: Who Wins the Match Point in Tool Usage?",
+    "date": "2025-01-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "live_api_bench",
+    "url": "https://arxiv.org/abs/2506.11266",
+    "title": "Live API-Bench: 2500+ Live APIs for Testing Multi-Step Tool Calling",
+    "date": "2025-06-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "toolscope_2026",
+    "url": "https://huggingface.co/papers/2510.20036",
+    "title": "ToolScope: Enhancing LLM Agent Tool Use through Tool Merging and Context-Aware Filtering",
+    "date": "2026-05-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "irma_framework",
+    "url": "https://arxiv.org/abs/2508.20931",
+    "title": "How Can Input Reformulation Improve Tool Usage Accuracy in a Complex Dynamic Environment? A Study on τ-bench",
+    "date": "2025-08-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "cot_react",
+    "url": "https://github.com/GoogleCloudPlatform/specialized-training-content/blob/main/courses/generative_ai/app_dev_llm/cot_react.ipynb",
+    "title": "Chain-of-Thought and ReAct Prompting Guide",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "openai_function_calls",
+    "url": "https://developers.openai.com/cookbook/examples/reasoning_function_calls.md",
+    "title": "Managing Function Calls With Reasoning Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "agentic_survey",
+    "url": "https://arxiv.org/html/2604.00835",
+    "title": "Agentic Tool Use in Large Language Models: A Survey",
+    "date": "2026-06-29",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "personal_agents",
+    "url": "https://huggingface.co/papers/2401.05459",
+    "title": "Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security",
+    "date": "2024-05-08",
+    "source": "hf-search"
+  }
+]

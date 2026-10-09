@@ -1,0 +1,26 @@
+[
+  {
+    "n": 1,
+    "id": "deepseek-r1-survey-2509.08827",
+    "url": "https://arxiv.org/abs/2509.08827",
+    "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
+    "date": "2025",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "raschka-llm-reasoning-state",
+    "url": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+    "title": "The State of Reinforcement Learning for LLM Reasoning",
+    "date": "2024",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "hf-cross-domain-reasoning-2506.14965",
+    "url": "https://huggingface.co/papers/2506.14965",
+    "title": "Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain Perspective",
+    "date": "2024",
+    "source": "hf-search"
+  }
+]
